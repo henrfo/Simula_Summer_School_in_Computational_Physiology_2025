@@ -101,8 +101,7 @@ Developed by Henrik Formoe for the Simula Summer School in Computational Physiol
 
 ## Acknowledgments
 
-- Simula Summer School in Computational Physiology 2025 organizers
-- Simula Research Laboratory
+- Simula Summer School in Computational Physiology 2025 organizers & Simula Research Laboratory
 - University of Oslo (UiO)
 - University of California, San Diego (UCSD)
 - Research community working on hyperdimensional computing and neural memory models
