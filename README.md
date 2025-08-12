@@ -26,8 +26,8 @@ This project explores Kanerva's Sparse Distributed Memory as a biologically-insp
 - **MNIST Implementation**: Complete SDM implementation for digit recognition
 - **Noise Robustness Analysis**: Comprehensive testing of model performance under various noise conditions
 - **Capacity Analysis**: Investigation of memory capacity limits and performance scaling
-- **Visualization Tools**: t-SNE embeddings and clustering analysis of hyperdimensional representations
-- **Comparative Study**: Analysis against traditional neural memory models
+- **Visualization Tools**: t-SNE embeddings and clustering analysis of hyperdimensional representations (not fully functional code)
+- **Comparative Study**: Conceptual analysis against traditional neural memory models
 
 ## Model Architecture
 
