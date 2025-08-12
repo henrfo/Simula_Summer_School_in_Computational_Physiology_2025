@@ -1,0 +1,1 @@
+# Sparse Distributed Memory Model
