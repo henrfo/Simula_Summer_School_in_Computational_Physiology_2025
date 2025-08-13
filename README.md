@@ -78,7 +78,7 @@ This project was developed for the Simula Summer School in Computational Physiol
 - **Memory Models**: Comparison between Hopfield networks and Sparse Distributed Memory
 - **Biological Inspiration**: How SDM mirrors hippocampal memory processing
 - **Computational Efficiency**: Sparse representations for large-scale pattern storage
-- **Noise Robustness**: Graceful degradation vs. catastrophic failure in neural memories
+- **Noise Robustness**: Graceful degradation vs. all-or-nothing retrieval in neural memories
 
 ## Key References
 
@@ -105,4 +105,4 @@ Developed by Henrik Formoe for the Simula Summer School in Computational Physiol
 - University of Oslo (UiO)
 - University of California, San Diego (UCSD)
 - Research community working on hyperdimensional computing and neural memory models
-- PyTorch and TorchHD teams - this student project was made possible by their excellent tools
+- PyTorch and TorchHD teams - this student project was made possible by the development of these tools
